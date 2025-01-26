@@ -1,5 +1,5 @@
 # hi i'm tewodros
-# A Fullstack web Developer and App Developer
+# A Fullstack Developer and App Developer
 # 💫 About Me:
 👋 Hi there! I'm a passionate bahir dar university student with a love for coding and a curiosity about the ever-evolving tech world. 💻 Currently honing my skills in various programming languages and exploring the latest in technology trends. 🌟 Always eager to learn, collaborate, and contribute to exciting projects. 🚀 Let's connect and build something amazing together! 🚀
 
