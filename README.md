@@ -10,14 +10,13 @@
 
 - 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/12J1292vzD1CWfGiAdNBSnXqjOdXWlTxg/view)**
 
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/Tewodros-Tilahun-01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Tewodros-Tilahun-01" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/tewodros--tilahun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tewodros--tilahun" height="30" width="40" /></a>
 </p>
 
-## 🛠️ Skills
+#
 
 ### 🧑‍💻 Programming Languages
 <p align="left">
@@ -72,6 +71,7 @@
   <img src="https://skillicons.dev/icons?i=postman" width="40" height="40"/>
 </p>
 
+###
 
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=Tewodros-Tilahun-01&theme=github_dark)
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Tewodros-Tilahun-01&layout=compact&theme=github_dark)
