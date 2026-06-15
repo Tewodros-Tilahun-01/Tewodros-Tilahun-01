@@ -9,7 +9,7 @@
 * 🔭 I'm currently working on **Full-Stack Development (Web & Mobile)**
 * 📫 Reach me at **[tewodrostilahun.dev@gmail.com](mailto:tewodrostilahun.dev@gmail.com)**
 * 👨‍💻 Portfolio: <a href="https://tewodrostilahun.vercel.app" target="_blank">Visit Website</a>
-* 📄 Resume: <a href="https://drive.google.com/file/d/1z3HJIXMXM9CCr-Sk975RR19T3iT1Zph2/view?usp=sharing" target="_blank">View Resume</a>
+
 
 ---
 
