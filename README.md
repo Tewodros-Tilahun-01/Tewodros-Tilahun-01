@@ -19,9 +19,7 @@
   <a href="https://github.com/Tewodros-Tilahun-01" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" height="40" />
   </a>
-  <a href="https://www.linkedin.com/in/tewodros--tilahun" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
-  </a>
+  
 </p>
 
 ---
