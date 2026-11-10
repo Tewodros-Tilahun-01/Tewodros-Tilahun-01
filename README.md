@@ -43,9 +43,6 @@
   <a href="https://isocpp.org/" target="_blank">
     <img src="https://skillicons.dev/icons?i=cpp" />
   </a>
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=cs" />
-  </a>
   <a href="https://www.php.net/" target="_blank">
     <img src="https://skillicons.dev/icons?i=php" />
   </a>
